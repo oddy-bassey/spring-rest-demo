@@ -1,0 +1,3 @@
+com\revoltcode\springdemo\Config\DemoAppConfig.class
+com\revoltcode\springdemo\rest\DemoRestController.class
+com\revoltcode\springdemo\Config\MySpringMVCDispatcherServletInitializer.class
